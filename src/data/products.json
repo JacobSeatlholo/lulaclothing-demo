@@ -1,0 +1,1192 @@
+[
+ {
+  "id": "p1",
+  "shopifyId": 8665403162907,
+  "handle": "malia-maxi-dress",
+  "title": "Malia maxi dress",
+  "category": "Dresses",
+  "price": 680.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC03261-2.jpg?v=1695824958",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC03269-2.jpg?v=1695824958",
+  "colors": [
+   {
+    "name": "Orange",
+    "hex": "#E8722C"
+   },
+   {
+    "name": "Green",
+    "hex": "#5B7B5A"
+   },
+   {
+    "name": "Yellow",
+    "hex": "#E8B93B"
+   },
+   {
+    "name": "Pink",
+    "hex": "#E38FAE"
+   },
+   {
+    "name": "Black",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "White",
+    "hex": "#F5F2EC"
+   }
+  ],
+  "sizes": [
+   "Small",
+   "Medium",
+   "Large",
+   "Xlarge",
+   "XXlarge"
+  ],
+  "stock": 20,
+  "fabric": "Airflow",
+  "description": "Malia maxi dress made in airflow fabric with bust lining and side slits with elastic at the back. Sizing: S=32, M=34, L=36, XL=38, XXL=40.",
+  "badges": []
+ },
+ {
+  "id": "p2",
+  "shopifyId": 8119068754203,
+  "handle": "emma-twin-set",
+  "title": "Emma Twin Set",
+  "category": "Co-ord Sets",
+  "price": 250.0,
+  "compareAt": 750.0,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/products/DSC07546.jpg?v=1784972731",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/products/DSC07547-2.jpg?v=1791126202",
+  "colors": [
+   {
+    "name": "Blue",
+    "hex": "#9C8E7E"
+   }
+  ],
+  "sizes": [
+   "Small",
+   "Medium",
+   "Large",
+   "Xlarge"
+  ],
+  "stock": 3,
+  "fabric": "",
+  "description": "Linen elasticated shorts and top. This boxy top is also great with pants. You can buy as a set or separtely. Message us your requirements.",
+  "badges": [
+   "Sale"
+  ]
+ },
+ {
+  "id": "p3",
+  "shopifyId": 10169079431451,
+  "handle": "lilah-set-copy",
+  "title": "Lilah set",
+  "category": "Co-ord Sets",
+  "price": 780.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/IMG_83993.jpg?v=1791119572",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/IMG_84053.jpg?v=1791119621",
+  "colors": [
+   {
+    "name": "BLACK",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "white",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "NATURAL",
+    "hex": "#E4D9C3"
+   },
+   {
+    "name": "Olive",
+    "hex": "#75743F"
+   },
+   {
+    "name": "chocolate",
+    "hex": "#9C8E7E"
+   }
+  ],
+  "sizes": [
+   "M",
+   "Xs",
+   "S",
+   "L",
+   "XL"
+  ],
+  "stock": 22,
+  "fabric": "",
+  "description": "We love this vee neck line top with ties and elasticated shorts with cuff detail. XS=30 Sizing: S=32, M=34, L=36, XL=38, XXL=40. The model is a size 30 but wearing a size 32.",
+  "badges": []
+ },
+ {
+  "id": "p4",
+  "shopifyId": 9966389068059,
+  "handle": "ella-shorts-set-with-off-the-shoulder-top",
+  "title": "Ella shorts set with off the shoulder top",
+  "category": "Tops",
+  "price": 780.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/IMG_83763.jpg?v=1791117044",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/IMG_8377.jpg?v=1791121465",
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "White",
+    "hex": "#F5F2EC"
+   },
+   {
+    "name": "NATURAL",
+    "hex": "#E4D9C3"
+   },
+   {
+    "name": "Olive",
+    "hex": "#75743F"
+   },
+   {
+    "name": "Chocolate",
+    "hex": "#4E3629"
+   }
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "stock": 23,
+  "fabric": "",
+  "description": "Flattering off shoulder to with elastic as the top and at the hem with elasticated shorts with cuff detail and pockets. Made in linen blend fabric Model is an xsmall and is wearing a size small XS=30 Sizing: S=32, M=3...",
+  "badges": []
+ },
+ {
+  "id": "p5",
+  "shopifyId": 9966393098523,
+  "handle": "sicily-shorts-set-with-top",
+  "title": "Linen Sicily shorts set with top",
+  "category": "Tops",
+  "price": 780.0,
+  "compareAt": 750.0,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/IMG_83813.jpg?v=1791112143",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/IMG_8411.jpg?v=1791112223",
+  "colors": [
+   {
+    "name": "white",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "NATURAL",
+    "hex": "#E4D9C3"
+   },
+   {
+    "name": "BLACK",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "Olive",
+    "hex": "#75743F"
+   },
+   {
+    "name": "chocolate",
+    "hex": "#9C8E7E"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "stock": 24,
+  "fabric": "",
+  "description": "We love this set and its cool and comfortable. Elasticated shorts with pockets and cuff detail. The top with a sleeve and elasticated cuff and waist. This is made of a linen blend fabric. The model is an xsmall but we...",
+  "badges": []
+ },
+ {
+  "id": "p6",
+  "shopifyId": 10491843543323,
+  "handle": "satin-border-print-maxi-britt-boobtube-dress",
+  "title": "Satin border print maxi Britt boobtube dress",
+  "category": "Dresses",
+  "price": 750.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/494F2CB4-FF15-456A-AB97-973BD3590EBC.png?v=1791110441",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/159CA6B2-F2CF-4BE7-B08B-BD273FB1E809.png?v=1791111388",
+  "colors": [
+   {
+    "name": "Border printed flowers",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "BLACK",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "CERISE",
+    "hex": "#D6336C"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "stock": 4,
+  "fabric": "",
+  "description": "This gorgeous aramani satin border print dress with side slits and flat elastic at the front and guaged elastic at the back. S=32/8 M=34/10 L=36/12 The model is wearing a size medium.",
+  "badges": []
+ },
+ {
+  "id": "p7",
+  "shopifyId": 10487956144411,
+  "handle": "leather-della-sandles",
+  "title": "Leather Della sandles",
+  "category": "Shoes",
+  "price": 780.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/2B2E6BD5-0768-4368-866A-AC0A10A8A536.png?v=1790850203",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/09F22B1E-AAD1-49EC-96E7-63A705940EBD.png?v=1790850203",
+  "colors": [
+   {
+    "name": "BLACK",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "Brown",
+    "hex": "#6B4F3A"
+   },
+   {
+    "name": "white",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Textured  gold",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Gold",
+    "hex": "#C9A24B"
+   },
+   {
+    "name": "Silver",
+    "hex": "#C0C0C0"
+   }
+  ],
+  "sizes": [
+   "3",
+   "4",
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "stock": 26,
+  "fabric": "",
+  "description": "These super cool sandles are so comfortable,made in leather,with leather upper,leather sole,leather insole board and memory foam padding. 3 4 5 6 7 8",
+  "badges": []
+ },
+ {
+  "id": "p8",
+  "shopifyId": 10487853515035,
+  "handle": "brady-plaited-leather-sandle",
+  "title": "Leather Petra plaited leather sandle",
+  "category": "Shoes",
+  "price": 780.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/B42AE41C-A50C-4BC1-BBF2-FB1F0CE75A6F.png?v=1790846172",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/198857F2-CD6A-4754-A0AA-459A4937839F.png?v=1790846172",
+  "colors": [
+   {
+    "name": "Brown",
+    "hex": "#6B4F3A"
+   },
+   {
+    "name": "BLACK",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "Textured  gold",
+    "hex": "#9C8E7E"
+   }
+  ],
+  "sizes": [
+   "3",
+   "4",
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "stock": 27,
+  "fabric": "",
+  "description": "The beautiful leather sandles are hand plaited,with leather , memory foam padding, leather sole and leather insole board. They are so feminine and ever so comfortable.",
+  "badges": []
+ },
+ {
+  "id": "p9",
+  "shopifyId": 10485825077531,
+  "handle": "steff-dress",
+  "title": "Steff dress",
+  "category": "Dresses",
+  "price": 680.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/E1FCC8C1-94F4-4CB6-93B8-5BC1B1D9E3C5.png?v=1790693772",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/A322097D-BFF9-4556-9455-3435C56A69C8.png?v=1790693772",
+  "colors": [
+   {
+    "name": "Stripe/floral",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Red",
+    "hex": "#C0392B"
+   },
+   {
+    "name": "Green",
+    "hex": "#5B7B5A"
+   },
+   {
+    "name": "BLACK",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "CERISE",
+    "hex": "#D6336C"
+   }
+  ],
+  "sizes": [
+   "Xs",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "stock": 28,
+  "fabric": "",
+  "description": "Made in viscose, this easy to wear dress has elastic under the bust to give a firm look. Spagetti straps with adjustable bra straps. XS=30/6 S=32/8 M=34/10 L=36/12 XL=38/14",
+  "badges": []
+ },
+ {
+  "id": "p10",
+  "shopifyId": 10485671199003,
+  "handle": "mesh-boobtube-dress-lined",
+  "title": "Mesh boobtube dress lined",
+  "category": "Dresses",
+  "price": 650.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/0AF234B5-824D-4B87-9279-0B75FD8E0EB3.png?v=1790692727",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/77B26127-0B49-4D23-B5E6-402E17BBF20C.png?v=1790692727",
+  "colors": [
+   {
+    "name": "blue mesh",
+    "hex": "#9C8E7E"
+   }
+  ],
+  "sizes": [
+   "Xs",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "stock": 2,
+  "fabric": "",
+  "description": "We love this super cool mesh dress. Its got turned in elastic at the top for comfort. XS=30/6 S=32/8 M=34/10 L=36/12 XL=38/14",
+  "badges": []
+ },
+ {
+  "id": "p11",
+  "shopifyId": 10200409211163,
+  "handle": "pjs-pants-with-long-sleeve-tee",
+  "title": "Pjs pants with long sleeve tee",
+  "category": "Lounge & Sleep",
+  "price": 295.0,
+  "compareAt": 695.0,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC007542_17b23c5a-bd27-48e1-873a-417473aac570.jpg?v=1775462500",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC007832.jpg?v=1775462501",
+  "colors": [
+   {
+    "name": "Lemons",
+    "hex": "#E8D44D"
+   },
+   {
+    "name": "Black stripe",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Green stripe",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Blue stripe",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Pink stripe",
+    "hex": "#9C8E7E"
+   }
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "stock": 0,
+  "fabric": "",
+  "description": "Slip into our pjs and look effortlessly stylish and super comfortable. Our long sleeve tee has binding in the same stripe as the pants. The shorts are cotton/spandex and the top is viscose spandex. XS=30/6 S=32/8 M=34...",
+  "badges": [
+   "Sale"
+  ]
+ },
+ {
+  "id": "p12",
+  "shopifyId": 10469732614427,
+  "handle": "maxi-viscose-madelyn-dress",
+  "title": "Maxi viscose Madelyn dress",
+  "category": "Dresses",
+  "price": 795.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/59F853CE-86E6-46C2-8434-4E4FBF4172F2_77079a54-05df-4482-89c6-9984ac4a0c14.png?v=1789903910",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/59F853CE-86E6-46C2-8434-4E4FBF4172F2.png?v=1789904324",
+  "colors": [
+   {
+    "name": "BLACK",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "Cerise/white print",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Black/white print",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Green/white print",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "CERISE",
+    "hex": "#D6336C"
+   },
+   {
+    "name": "Green",
+    "hex": "#5B7B5A"
+   }
+  ],
+  "sizes": [
+   "Xs",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL",
+   "XXXL"
+  ],
+  "stock": 21,
+  "fabric": "",
+  "description": "Effortless spring/summer viscose dress with cuff detail and mandarin collar. Made in lightweight viscose fabric made for sunny days. The sleeve comes to the elbow with a slit in the cuff. Fresh and feminine and easy t...",
+  "badges": []
+ },
+ {
+  "id": "p13",
+  "shopifyId": 10469689491739,
+  "handle": "maxi-armani-satin-janie-dress",
+  "title": "Maxi armani satin Janie dress",
+  "category": "Dresses",
+  "price": 1100.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/92D4471F-402C-4A08-A726-2E0412BDC5D8.jpg?v=1789899278",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/EB1F6550-89B0-436F-8351-F910B4FA4D92.png?v=1789899278",
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "YELLOW",
+    "hex": "#E8B93B"
+   },
+   {
+    "name": "CERISE",
+    "hex": "#D6336C"
+   },
+   {
+    "name": "CHARCOAL",
+    "hex": "#33302B"
+   },
+   {
+    "name": "Rust",
+    "hex": "#B4552D"
+   },
+   {
+    "name": "Sage",
+    "hex": "#A8B5A0"
+   }
+  ],
+  "sizes": [
+   "Xs",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL",
+   "XXXL"
+  ],
+  "stock": 22,
+  "fabric": "",
+  "description": "This beautiful elegant dress has a neck band with a tie at the back. Flared and loose fitting, elegantly chic and effortless. Made in armani satin , its a beautiful matt soft and lightweight satin. The model is a 34/1...",
+  "badges": []
+ },
+ {
+  "id": "p14",
+  "shopifyId": 10459916927259,
+  "handle": "untitled-sep15_11-42-08",
+  "title": "Knit printed spring pj's",
+  "category": "Lounge & Sleep",
+  "price": 395.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/EA826897-2B40-4347-B73B-115E949A9CFE.png?v=1789535909",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/EA826897-2B40-4347-B73B-115E949A9CFE.png?v=1789535909",
+  "colors": [
+   {
+    "name": "Spring print",
+    "hex": "#9C8E7E"
+   }
+  ],
+  "sizes": [
+   "Xs",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "stock": 3,
+  "fabric": "",
+  "description": "We love this soft jersey knit . The top is a throw over tee with elasticated waist shorts. 100% cotton printed knit. XS=30/6 S=32/8 M=34/10 L=36/12 XL=38/14 XXL=40/16",
+  "badges": []
+ },
+ {
+  "id": "p15",
+  "shopifyId": 10440014266651,
+  "handle": "satin-sardinia-pants-with-pockets-copy",
+  "title": "Linen Capri pants with pockets",
+  "category": "Bottoms",
+  "price": 595.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/3D88DFAB-E93C-4E98-ACD6-70CF5128D16C_f8b85437-ea39-4ee4-a6a7-1e2cc79a351c.png?v=1788852094",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/5CFCBC94-FD5B-4DD8-93A9-608BF7208A3C_2.png?v=1788851683",
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "Chartruce",
+    "hex": "#D9E650"
+   },
+   {
+    "name": "Chocolate",
+    "hex": "#4E3629"
+   },
+   {
+    "name": "white",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "NATURAL",
+    "hex": "#E4D9C3"
+   }
+  ],
+  "sizes": [
+   "Xs",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL",
+   "XXXL"
+  ],
+  "stock": 24,
+  "fabric": "",
+  "description": "These beatuful luxurious liquid aramani satin elasticated pants are a staple for anyones wardrobe. Width of hem is 34cm. xs=30/6 S=32/8 M=34/10 L=36/12 XL=38/14 XXL=40/16 XXXL=42/18",
+  "badges": []
+ },
+ {
+  "id": "p16",
+  "shopifyId": 10439981662491,
+  "handle": "rope-tie-brady-espadrille-sandle",
+  "title": "Rope tie Brady espadrille sandle",
+  "category": "Shoes",
+  "price": 895.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/18CAB25B-9F0B-47B4-946C-979D720B6284.png?v=1788848301",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/52C4FF24-9D9E-4E4D-8C3E-27A7CD029734.png?v=1788848301",
+  "colors": [],
+  "sizes": [
+   "3",
+   "4",
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "stock": 25,
+  "fabric": "",
+  "description": "Wow we love these sumemr beatuties, They are so comfortable and compliment your summer look perfectly. We have only made a few so hurry before they are gone. You can tie these a couple of differnet ways to make it wor...",
+  "badges": []
+ },
+ {
+  "id": "p17",
+  "shopifyId": 10436532568347,
+  "handle": "linen-capri-pants-with-pockets",
+  "title": "Satin Sardinia  pants with pockets",
+  "category": "Bottoms",
+  "price": 595.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/1ECDC21C-70DF-4E09-B236-69DC7B03ADC5.jpg?v=1788849824",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/27FAAC11-3386-4BD0-817F-6142E7059F0A.png?v=1788849707",
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "Olive",
+    "hex": "#75743F"
+   },
+   {
+    "name": "Bronze",
+    "hex": "#9C7A3C"
+   },
+   {
+    "name": "Cream",
+    "hex": "#F1EAD8"
+   }
+  ],
+  "sizes": [
+   "Xs",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL",
+   "XXXL"
+  ],
+  "stock": 26,
+  "fabric": "",
+  "description": "These beatuful luxurious liquid aramani satin elasticated pants are a staple for anyones wardrobe. Width of hem is 34cm. XS=30/6 S=32/8 M=34/10 L=36/12 XL=38/14 XXL=40/16 XXXL=42/18",
+  "badges": []
+ },
+ {
+  "id": "p18",
+  "shopifyId": 10433789395227,
+  "handle": "knit-cross-over-christy-top",
+  "title": "Knit cross over Christy top",
+  "category": "Tops",
+  "price": 350.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/IMG_0833.jpg?v=1788598103",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/88CF5841-3C7D-4D0B-87D2-66D31AF2065B.png?v=1788598103",
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "Beige",
+    "hex": "#D9CBB3"
+   },
+   {
+    "name": "Green",
+    "hex": "#5B7B5A"
+   },
+   {
+    "name": "White",
+    "hex": "#F5F2EC"
+   },
+   {
+    "name": "Brown",
+    "hex": "#6B4F3A"
+   },
+   {
+    "name": "YELLOW",
+    "hex": "#E8B93B"
+   }
+  ],
+  "sizes": [
+   "Xs",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "stock": 4,
+  "fabric": "",
+  "description": "We love this classic halter cross over top made in a stretch knit fabric. Dress is up or down, paired here with our satin capri pants and linen pants for a different look. XS=30/6 S=32/8 M=34/10 L=36/12 XL=38/14",
+  "badges": []
+ },
+ {
+  "id": "p19",
+  "shopifyId": 10419737035035,
+  "handle": "flutter-sleeve-mel-top",
+  "title": "Flutter sleeve Mel top",
+  "category": "Tops",
+  "price": 295.0,
+  "compareAt": 350.0,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/2D50B9DD-E135-4C4E-B33A-E891BEFD3016.png?v=1787840376",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/fb8acccc-93ec-4119-8c71-b501b1ad6c5b.jpg?v=1787837109",
+  "colors": [
+   {
+    "name": "Beige",
+    "hex": "#D9CBB3"
+   },
+   {
+    "name": "white",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Navy",
+    "hex": "#2A3340"
+   },
+   {
+    "name": "Black",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "CERISE",
+    "hex": "#D6336C"
+   },
+   {
+    "name": "Light olive",
+    "hex": "#9C8E7E"
+   }
+  ],
+  "sizes": [
+   "Xs",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL",
+   "XXXL"
+  ],
+  "stock": 28,
+  "fabric": "",
+  "description": "Made from airflow fabric , this beautful flutter sleeve top is super chic. XS=30/6 S=32/8 M=34/10 L=36/12 XL=38/14 XXL=40/16 XXXL=42/18",
+  "badges": [
+   "Sale"
+  ]
+ },
+ {
+  "id": "p20",
+  "shopifyId": 8770674360603,
+  "handle": "abbey-tassle-dress-1",
+  "title": "Abbey tassle dress",
+  "category": "Dresses",
+  "price": 850.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/6699C160-F323-4E72-B361-7FA3806237F3.png?v=1787072745",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/IMG_0710_e1da7634-78eb-4db9-984c-3ac0462b7cae.jpg?v=1787072903",
+  "colors": [
+   {
+    "name": "Blue border print",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Cerise",
+    "hex": "#D6336C"
+   },
+   {
+    "name": "Chocolate",
+    "hex": "#4E3629"
+   },
+   {
+    "name": "Black",
+    "hex": "#1C1917"
+   }
+  ],
+  "sizes": [
+   "Small",
+   "Medium",
+   "Large",
+   "Xlarge",
+   "XXlarge"
+  ],
+  "stock": 29,
+  "fabric": "",
+  "description": "Beautiful viscose border print with tassle detail. Elastic in the sides with tassles and tie tassle at the back neck. S=32 M=34 L=36 XL=38",
+  "badges": []
+ },
+ {
+  "id": "p21",
+  "shopifyId": 10137481937179,
+  "handle": "jackie-dress-3-4-sleeve",
+  "title": "Viscose short Jackie dress with 3/4 sleeve",
+  "category": "Dresses",
+  "price": 650.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/IMG_9145.jpg?v=1787071640",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/IMG_8961_27210938-01d3-4fb9-9842-dabacf6656ba.jpg?v=1787071641",
+  "colors": [
+   {
+    "name": "Black/cream",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Choc/cream",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Cerise/white print",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Black/white print",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Cerise/orange",
+    "hex": "#9C8E7E"
+   }
+  ],
+  "sizes": [
+   "One size"
+  ],
+  "stock": 20,
+  "fabric": "Viscose",
+  "description": "Love this dress because fit works for any body shape . With a contrast panel, to add extra details. This dress has a collar and a 2cm placket in the front. Just above the knee, should you want it longer, you can reque...",
+  "badges": []
+ },
+ {
+  "id": "p22",
+  "shopifyId": 10387367952667,
+  "handle": "linen-bermuda-ashely-shorts",
+  "title": "Linen bermuda Ashely shorts",
+  "category": "Bottoms",
+  "price": 550.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC062452.jpg?v=1786462358",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC062552.jpg?v=1786462358",
+  "colors": [
+   {
+    "name": "white",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "NATURAL",
+    "hex": "#E4D9C3"
+   },
+   {
+    "name": "Olive",
+    "hex": "#75743F"
+   },
+   {
+    "name": "Black",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "chocolate",
+    "hex": "#9C8E7E"
+   }
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "stock": 2,
+  "fabric": "",
+  "description": "The fit on these beautiful linen blend shorts is just superb. The perfect length, darts, sip and button , and of course pockets. Super light and comfortable, with belt loops to wear with a belt. XS=30/6 S=32/8 M=34/10...",
+  "badges": []
+ },
+ {
+  "id": "p23",
+  "shopifyId": 10387357073691,
+  "handle": "lighweight-knit-zori-top",
+  "title": "Lighweight knit Zori top",
+  "category": "Tops",
+  "price": 450.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC061892.jpg?v=1786462005",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC061922.jpg?v=1786462005",
+  "colors": [
+   {
+    "name": "Baby green",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Baby blue",
+    "hex": "#A9C7E8"
+   },
+   {
+    "name": "Cream",
+    "hex": "#F1EAD8"
+   }
+  ],
+  "sizes": [
+   "One size"
+  ],
+  "stock": 22,
+  "fabric": "",
+  "description": "This fabric is just the softest touch and lightweight, perfect to throw over your tee when it feels a little chilly or wear it on its own as its lightweight.The batwing style elevates the style and makes it stylish, y...",
+  "badges": []
+ },
+ {
+  "id": "p24",
+  "shopifyId": 10387191890203,
+  "handle": "off-shoulder-sharma-maxi-dress",
+  "title": "Off shoulder Sharma maxi dress",
+  "category": "Dresses",
+  "price": 750.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC060442.jpg?v=1786447060",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC060512.jpg?v=1786447060",
+  "colors": [
+   {
+    "name": "Navy",
+    "hex": "#2A3340"
+   },
+   {
+    "name": "Green",
+    "hex": "#5B7B5A"
+   },
+   {
+    "name": "Black",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "CERISE",
+    "hex": "#D6336C"
+   },
+   {
+    "name": "Chartuce leaf",
+    "hex": "#9C8E7E"
+   }
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "stock": 23,
+  "fabric": "",
+  "description": "Embrace the beauty of this off the shoulder dress , it just flows and its effortless beauty is a must to have just to throw on and look incredible. XS=6/30 S=8/32 M=10/34 L=12/36 XL=14/38",
+  "badges": []
+ },
+ {
+  "id": "p25",
+  "shopifyId": 10387159318811,
+  "handle": "kaftan-donna-top",
+  "title": "Kaftan Donna top",
+  "category": "Kaftans",
+  "price": 450.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC058552.jpg?v=1786446116",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC05838_2.jpg?v=1786446163",
+  "colors": [
+   {
+    "name": "Animal",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Black",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "Taupe",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "white",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "CERISE",
+    "hex": "#D6336C"
+   },
+   {
+    "name": "Turquoise",
+    "hex": "#3BAFAF"
+   }
+  ],
+  "sizes": [
+   "One size"
+  ],
+  "stock": 24,
+  "fabric": "",
+  "description": "Light, elegant and effortlessly stylish, this chiffon kaftan top comes with a matching cami for a beautifully layered look. Perfect for warm days and special occasions, it adds an easy touch of sophistication to any o...",
+  "badges": []
+ },
+ {
+  "id": "p26",
+  "shopifyId": 10387131400475,
+  "handle": "asymetrical-scuba-top",
+  "title": "Asymetrical scuba Angela top",
+  "category": "Tops",
+  "price": 380.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC057922_70f4d2c8-298f-4628-b427-08d7a3abc7fc.jpg?v=1786445554",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC058252.jpg?v=1786445553",
+  "colors": [
+   {
+    "name": "Beige",
+    "hex": "#D9CBB3"
+   },
+   {
+    "name": "White",
+    "hex": "#F5F2EC"
+   },
+   {
+    "name": "Black",
+    "hex": "#1C1917"
+   }
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "stock": 3,
+  "fabric": "",
+  "description": "Make a stylish statement in this effortlessly chic asymetrical top. Featuring a modern silhouette to add to any outfit. Made in scuba fabric, you can request any fabric of choice. XS=6/30 S=8/32 M=10/34 L=12/36 XL=14/38",
+  "badges": []
+ },
+ {
+  "id": "p27",
+  "shopifyId": 10387127402779,
+  "handle": "boobtube-elasticaed-emelia-dress",
+  "title": "Boobtube elasticaed Emelia dress",
+  "category": "Dresses",
+  "price": 750.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC060072_53d67f4a-3fc1-491a-87f4-60efd432b4db.jpg?v=1786444092",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC06009_2.jpg?v=1786444454",
+  "colors": [],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "stock": 26,
+  "fabric": "",
+  "description": "Elegant and effortlessly chic, this boobtube knit dress is a stunning choice for wedding guest dressing. Featuring a flattering strapless silhouette and beautifully sculpted knit fabric, it\u2019s designed to make an elega...",
+  "badges": []
+ },
+ {
+  "id": "p28",
+  "shopifyId": 10387081855259,
+  "handle": "cap-sleeve-leopard-tulip-dress",
+  "title": "Cap sleeve leopard Tulip dress",
+  "category": "Dresses",
+  "price": 650.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC056122.jpg?v=1786434113",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC056162.jpg?v=1786434113",
+  "colors": [
+   {
+    "name": "Black/leopard",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "Leopard print",
+    "hex": "#A9744A"
+   }
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "stock": 27,
+  "fabric": "",
+  "description": "Make a statement in this effortlessly stylish midi length tee dress. With its relaxed fit and constrast cap sleeve and neck detail, it\u2019s the perfect blend of comfort and chic, making it an easy choice for everyday wea...",
+  "badges": []
+ },
+ {
+  "id": "p29",
+  "shopifyId": 10387073925403,
+  "handle": "linen-gypsy-hannah-top-with-lace-inset",
+  "title": "Linen gypsy Hannah top with lace inset",
+  "category": "Tops",
+  "price": 550.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC057792.jpg?v=1786433667",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC057822.jpg?v=1786433668",
+  "colors": [],
+  "sizes": [
+   "Xs",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "stock": 28,
+  "fabric": "",
+  "description": "Effortlessly feminine, this linen gypsy top features delicate lace inserts for a touch of romantic detail. Lightweight and easy to wear, it\u2019s the perfect choice for relaxed, stylish summer dressing. Elastic under the...",
+  "badges": []
+ },
+ {
+  "id": "p30",
+  "shopifyId": 10387069337883,
+  "handle": "capri-scuba-anthea-crop-pants",
+  "title": "Capri scuba Anthea crop pants",
+  "category": "Bottoms",
+  "price": 350.0,
+  "compareAt": null,
+  "image": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC057962.jpg?v=1786432808",
+  "image2": "https://cdn.shopify.com/s/files/1/0503/0572/8697/files/DSC05792_2.jpg?v=1786433259",
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#1C1917"
+   },
+   {
+    "name": "white",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "stone",
+    "hex": "#9C8E7E"
+   },
+   {
+    "name": "mocca",
+    "hex": "#8B6F5A"
+   }
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ],
+  "stock": 4,
+  "fabric": "",
+  "description": "Stylish and versatile, these cropped capri pants are crafted in smooth scuba fabric for a sleek, structured fit. Perfect for pairing with everything from casual tees to polished tops. XS=30/6 S=32/8 M=34/10 L=36/12 XL...",
+  "badges": []
+ }
+]
